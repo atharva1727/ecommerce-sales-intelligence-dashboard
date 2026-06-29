@@ -2,9 +2,9 @@
 
 ![Dashboard Overview](https://github.com/atharva1727/ecommerce-sales-intelligence-dashboard/blob/main/21tzIjoks_jKkQp2oavwsOWMOg6wUuXfMtgWQ6mseZRsGXCfzK3wj00Nl9RTppOaxQmUZX1ZxrrWHko4Q4VEBVUeTgIeaRVffyuu0Jyc1WdPTgN-4BYSYmWMjonVDjciNYbiEs8-TLthIFpxSPOzxKqR2J-wtMLvz2O31-XsazrHh5NUN0m1EjifL9jBCFId.jpg)
 
-![Profit Analysis](Images/profit-analysis.png)
+![Profit Analysis](https://github.com/atharva1727/ecommerce-sales-intelligence-dashboard/blob/main/bbKZa5pnLplUlzgQYVU2gy00QyqW44kuYJWirxxiiQqUUNmF8nj4WZGCczOlfPIMXPGbpXSgVgKstFqJ95JGLu0cQiGJqYd1QCsu8WMjCXMZpsOVT3qjD92xCPXDSPt145VLaAojoi6x6eaRL5GSzXSPwdrk_GW0UrAKsGh67MU.jpg)
 
-![Sales Trends](Images/sales-trends.png)
+![Sales Trends]()
 
 
 # ecommerce-sales-intelligence-dashboard
