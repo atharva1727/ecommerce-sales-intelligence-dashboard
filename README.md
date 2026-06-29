@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Dashboard Overview](Images/dashboard-overview.png)
+![Dashboard Overview](https://github.com/atharva1727/ecommerce-sales-intelligence-dashboard/blob/main/21tzIjoks_jKkQp2oavwsOWMOg6wUuXfMtgWQ6mseZRsGXCfzK3wj00Nl9RTppOaxQmUZX1ZxrrWHko4Q4VEBVUeTgIeaRVffyuu0Jyc1WdPTgN-4BYSYmWMjonVDjciNYbiEs8-TLthIFpxSPOzxKqR2J-wtMLvz2O31-XsazrHh5NUN0m1EjifL9jBCFId.jpg)
 
 ![Profit Analysis](Images/profit-analysis.png)
 
