@@ -4,7 +4,7 @@
 
 ![Profit Analysis](https://github.com/atharva1727/ecommerce-sales-intelligence-dashboard/blob/main/bbKZa5pnLplUlzgQYVU2gy00QyqW44kuYJWirxxiiQqUUNmF8nj4WZGCczOlfPIMXPGbpXSgVgKstFqJ95JGLu0cQiGJqYd1QCsu8WMjCXMZpsOVT3qjD92xCPXDSPt145VLaAojoi6x6eaRL5GSzXSPwdrk_GW0UrAKsGh67MU.jpg)
 
-![Sales Trends]()
+![Sales Trends](https://github.com/atharva1727/ecommerce-sales-intelligence-dashboard/blob/main/nTrn8zhb6QnHcr25Vm_svpup4RMApuc2p5ruh9aCnal4gOIYZOZ9VaGkOYYdfs4bn7-zhn-Iz9UoXWm9ttfplnjYazcQe4sXzxcK4NSh793jeI9wEt32ciJytazjVxZB1PAZMgjw0QA07eWtN3NgIpTU-37fM-hjnQ6Y25NFZRC-U8XOW_HHzGzGViEMs2aB.jpg)
 
 
 # ecommerce-sales-intelligence-dashboard
